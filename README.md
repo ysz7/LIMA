@@ -1,6 +1,6 @@
 # LIMA — Long-term Intelligence Memory for Agents
 
-LIMA is the memory system for created for Agent Smith. It replaces full conversation history replay with a smart fact store that loads only what's relevant to the current message.
+LIMA is the memory system for AI Agents. It replaces full conversation history replay with a smart fact store that loads only what's relevant to the current message.
 
 ## The problem
 
